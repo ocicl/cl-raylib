@@ -1,0 +1,9 @@
+* cl-raylib
+
+Common Lisp binding of raylib
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/longlene/cl-raylib |
+| commit  | acb5095                                   |
+| systems | cl-raylib                                 |
+|---------+-------------------------------------------|
