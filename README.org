@@ -4,7 +4,7 @@ Common Lisp binding of raylib
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/longlene/cl-raylib |
-| commit  | 23a7da7                                   |
+| commit  | 16a41f0                                   |
 | systems | cl-raylib                                 |
 |---------+-------------------------------------------|
    
